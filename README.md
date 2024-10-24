@@ -22,7 +22,7 @@
 
 <h2 id="started">📌 About</h2>
 
-This repository contains a Landing Page built with Angular 17 using SSR mechanism built during a live on my [Youtube Channel](https://www.youtube.com/live/O26fDEnAukY?si=8OjYdSyhlAuNUSa_).
+This repository contains a Landing Page built with Angular 17 using SSR mechanism.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
