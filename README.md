@@ -42,7 +42,7 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone https://github.com/jefersonpriimer/lading-page
+git clone https://github.com/jefersonpriimer/lading-page-ssr
 cd lading-page
 ```
 
